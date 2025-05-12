@@ -1,0 +1,13 @@
+C:\Users\luci_\OneDrive\Escritorio\GestionPedido\GestionPedidos.Controller\bin\Debug\netstandard2.0\GestionPedidos.Controller.deps.json
+C:\Users\luci_\OneDrive\Escritorio\GestionPedido\GestionPedidos.Controller\bin\Debug\netstandard2.0\GestionPedidos.Controller.dll
+C:\Users\luci_\OneDrive\Escritorio\GestionPedido\GestionPedidos.Controller\bin\Debug\netstandard2.0\GestionPedidos.Controller.pdb
+C:\Users\luci_\OneDrive\Escritorio\GestionPedido\GestionPedidos.Controller\bin\Debug\netstandard2.0\GestionPedidos.Models.dll
+C:\Users\luci_\OneDrive\Escritorio\GestionPedido\GestionPedidos.Controller\bin\Debug\netstandard2.0\GestionPedidos.Models.pdb
+C:\Users\luci_\OneDrive\Escritorio\GestionPedido\GestionPedidos.Controller\obj\Debug\netstandard2.0\GestionPedidos.Controller.csproj.AssemblyReference.cache
+C:\Users\luci_\OneDrive\Escritorio\GestionPedido\GestionPedidos.Controller\obj\Debug\netstandard2.0\GestionPedidos.Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luci_\OneDrive\Escritorio\GestionPedido\GestionPedidos.Controller\obj\Debug\netstandard2.0\GestionPedidos.Controller.AssemblyInfoInputs.cache
+C:\Users\luci_\OneDrive\Escritorio\GestionPedido\GestionPedidos.Controller\obj\Debug\netstandard2.0\GestionPedidos.Controller.AssemblyInfo.cs
+C:\Users\luci_\OneDrive\Escritorio\GestionPedido\GestionPedidos.Controller\obj\Debug\netstandard2.0\GestionPedidos.Controller.csproj.CoreCompileInputs.cache
+C:\Users\luci_\OneDrive\Escritorio\GestionPedido\GestionPedidos.Controller\obj\Debug\netstandard2.0\GestionP.A366DD51.Up2Date
+C:\Users\luci_\OneDrive\Escritorio\GestionPedido\GestionPedidos.Controller\obj\Debug\netstandard2.0\GestionPedidos.Controller.dll
+C:\Users\luci_\OneDrive\Escritorio\GestionPedido\GestionPedidos.Controller\obj\Debug\netstandard2.0\GestionPedidos.Controller.pdb

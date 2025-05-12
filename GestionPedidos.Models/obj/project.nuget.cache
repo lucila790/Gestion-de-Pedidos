@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SRYJ4e2ZmCw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\GestionPedidos.Models\\GestionPedidos.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luci_\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\luci_\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\luci_\\.nuget\\packages\\system.data.sqlclient\\4.9.0\\system.data.sqlclient.4.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

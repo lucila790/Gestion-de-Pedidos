@@ -1,0 +1,10 @@
+C:\Users\luci_\OneDrive\Escritorio\GestionPedido\GestionPedidos.Models\bin\Debug\netstandard2.0\GestionPedidos.Models.deps.json
+C:\Users\luci_\OneDrive\Escritorio\GestionPedido\GestionPedidos.Models\bin\Debug\netstandard2.0\GestionPedidos.Models.dll
+C:\Users\luci_\OneDrive\Escritorio\GestionPedido\GestionPedidos.Models\bin\Debug\netstandard2.0\GestionPedidos.Models.pdb
+C:\Users\luci_\OneDrive\Escritorio\GestionPedido\GestionPedidos.Models\obj\Debug\netstandard2.0\GestionPedidos.Models.csproj.AssemblyReference.cache
+C:\Users\luci_\OneDrive\Escritorio\GestionPedido\GestionPedidos.Models\obj\Debug\netstandard2.0\GestionPedidos.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luci_\OneDrive\Escritorio\GestionPedido\GestionPedidos.Models\obj\Debug\netstandard2.0\GestionPedidos.Models.AssemblyInfoInputs.cache
+C:\Users\luci_\OneDrive\Escritorio\GestionPedido\GestionPedidos.Models\obj\Debug\netstandard2.0\GestionPedidos.Models.AssemblyInfo.cs
+C:\Users\luci_\OneDrive\Escritorio\GestionPedido\GestionPedidos.Models\obj\Debug\netstandard2.0\GestionPedidos.Models.csproj.CoreCompileInputs.cache
+C:\Users\luci_\OneDrive\Escritorio\GestionPedido\GestionPedidos.Models\obj\Debug\netstandard2.0\GestionPedidos.Models.dll
+C:\Users\luci_\OneDrive\Escritorio\GestionPedido\GestionPedidos.Models\obj\Debug\netstandard2.0\GestionPedidos.Models.pdb

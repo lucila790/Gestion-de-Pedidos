@@ -1,0 +1,554 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|c:\\users\\luci_\\onedrive\\escritorio\\gestionpedido\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\frmprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|solutionrelative:frmprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|c:\\users\\luci_\\onedrive\\escritorio\\gestionpedido\\frmlistadoproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|solutionrelative:frmlistadoproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|c:\\users\\luci_\\onedrive\\escritorio\\gestionpedido\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|solutionrelative:frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|c:\\users\\luci_\\onedrive\\escritorio\\gestionpedido\\frmlistadoproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|solutionrelative:frmlistadoproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\frmlistadoclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|solutionrelative:frmlistadoclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|solutionrelative:frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|c:\\users\\luci_\\onedrive\\escritorio\\gestionpedido\\ucpedidoscliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|solutionrelative:ucpedidoscliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|c:\\users\\luci_\\onedrive\\escritorio\\gestionpedido\\ucpedidoscliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|solutionrelative:ucpedidoscliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\ucclientesdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|solutionrelative:ucclientesdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|c:\\users\\luci_\\onedrive\\escritorio\\gestionpedido\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|solutionrelative:frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|c:\\users\\luci_\\onedrive\\escritorio\\gestionpedido\\frmproductos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|solutionrelative:frmproductos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|c:\\users\\luci_\\onedrive\\escritorio\\gestionpedido\\frmlistadoproductos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|solutionrelative:frmlistadoproductos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6015AF01-6F55-4A88-8831-00F9B6C155FA}|GestionPedidos.Controller\\GestionPedidos.Controller.csproj|c:\\users\\luci_\\onedrive\\escritorio\\gestionpedido\\gestionpedidos.controller\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6015AF01-6F55-4A88-8831-00F9B6C155FA}|GestionPedidos.Controller\\GestionPedidos.Controller.csproj|solutionrelative:gestionpedidos.controller\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6015AF01-6F55-4A88-8831-00F9B6C155FA}|GestionPedidos.Controller\\GestionPedidos.Controller.csproj|c:\\users\\luci_\\onedrive\\escritorio\\gestionpedido\\gestionpedidos.controller\\gestionpedidos.controller.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6015AF01-6F55-4A88-8831-00F9B6C155FA}|GestionPedidos.Controller\\GestionPedidos.Controller.csproj|solutionrelative:gestionpedidos.controller\\gestionpedidos.controller.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\frmlistadoclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|solutionrelative:frmlistadoclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\frmlistadoclientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|solutionrelative:frmlistadoclientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\frmclientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|solutionrelative:frmclientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D41A84C-91DC-480B-9510-7C6D62E7D98F}|GestionPedidos.Models\\GestionPedidos.Models.csproj|c:\\users\\luci_\\onedrive\\escritorio\\gestionpedido\\gestionpedidos.models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D41A84C-91DC-480B-9510-7C6D62E7D98F}|GestionPedidos.Models\\GestionPedidos.Models.csproj|solutionrelative:gestionpedidos.models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|solutionrelative:frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\ucbotonera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|solutionrelative:ucbotonera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6015AF01-6F55-4A88-8831-00F9B6C155FA}|GestionPedidos.Controller\\GestionPedidos.Controller.csproj|c:\\users\\luci_\\onedrive\\escritorio\\gestionpedido\\gestionpedidos.controller\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6015AF01-6F55-4A88-8831-00F9B6C155FA}|GestionPedidos.Controller\\GestionPedidos.Controller.csproj|solutionrelative:gestionpedidos.controller\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6015AF01-6F55-4A88-8831-00F9B6C155FA}|GestionPedidos.Controller\\GestionPedidos.Controller.csproj|c:\\users\\luci_\\onedrive\\escritorio\\gestionpedido\\gestionpedidos.controller\\clientedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6015AF01-6F55-4A88-8831-00F9B6C155FA}|GestionPedidos.Controller\\GestionPedidos.Controller.csproj|solutionrelative:gestionpedidos.controller\\clientedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6015AF01-6F55-4A88-8831-00F9B6C155FA}|GestionPedidos.Controller\\GestionPedidos.Controller.csproj|c:\\users\\luci_\\onedrive\\escritorio\\gestionpedido\\gestionpedidos.controller\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6015AF01-6F55-4A88-8831-00F9B6C155FA}|GestionPedidos.Controller\\GestionPedidos.Controller.csproj|solutionrelative:gestionpedidos.controller\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\frmlistadoclientes.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|solutionrelative:frmlistadoclientes.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\frmprincipal.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{6203F8F6-22FA-42E5-B9D2-73754DACCB38}|GestionPedido.csproj|solutionrelative:frmprincipal.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D41A84C-91DC-480B-9510-7C6D62E7D98F}|GestionPedidos.Models\\GestionPedidos.Models.csproj|c:\\users\\luci_\\onedrive\\escritorio\\gestionpedido\\gestionpedidos.models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D41A84C-91DC-480B-9510-7C6D62E7D98F}|GestionPedidos.Models\\GestionPedidos.Models.csproj|solutionrelative:gestionpedidos.models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D41A84C-91DC-480B-9510-7C6D62E7D98F}|GestionPedidos.Models\\GestionPedidos.Models.csproj|c:\\users\\luci_\\onedrive\\escritorio\\gestionpedido\\gestionpedidos.models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D41A84C-91DC-480B-9510-7C6D62E7D98F}|GestionPedidos.Models\\GestionPedidos.Models.csproj|solutionrelative:gestionpedidos.models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D41A84C-91DC-480B-9510-7C6D62E7D98F}|GestionPedidos.Models\\GestionPedidos.Models.csproj|c:\\users\\luci_\\onedrive\\escritorio\\gestionpedido\\gestionpedidos.models\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D41A84C-91DC-480B-9510-7C6D62E7D98F}|GestionPedidos.Models\\GestionPedidos.Models.csproj|solutionrelative:gestionpedidos.models\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\FrmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T19:18:30.405Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmListadoProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\FrmListadoProductos.cs",
+              "RelativeDocumentMoniker": "FrmListadoProductos.cs",
+              "ToolTip": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\FrmListadoProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmListadoProductos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:28:06.129Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmListadoProductos.cs",
+              "DocumentMoniker": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\FrmListadoProductos.cs",
+              "RelativeDocumentMoniker": "FrmListadoProductos.cs",
+              "ToolTip": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\FrmListadoProductos.cs",
+              "RelativeToolTip": "FrmListadoProductos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:43:57.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\FrmPrincipal.cs",
+              "RelativeToolTip": "FrmPrincipal.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAADwv0AAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T19:18:43.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmPrincipal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\FrmPrincipal.Designer.cs",
+              "RelativeDocumentMoniker": "FrmPrincipal.Designer.cs",
+              "ToolTip": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\FrmPrincipal.Designer.cs",
+              "RelativeToolTip": "FrmPrincipal.Designer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T19:18:45.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-12T20:23:14.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T23:05:44.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmListadoCLientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\FrmListadoCLientes.cs",
+              "RelativeDocumentMoniker": "FrmListadoCLientes.cs",
+              "ToolTip": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\FrmListadoCLientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmListadoCLientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T19:41:39.105Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\FrmProductos.cs",
+              "RelativeDocumentMoniker": "FrmProductos.cs",
+              "ToolTip": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\FrmProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmProductos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:33:07.289Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\FrmClientes.cs",
+              "RelativeDocumentMoniker": "FrmClientes.cs",
+              "ToolTip": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\FrmClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmClientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T19:29:52.696Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UcPedidosCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\UcPedidosCliente.cs",
+              "RelativeDocumentMoniker": "UcPedidosCliente.cs",
+              "ToolTip": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\UcPedidosCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "UcPedidosCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:36:55.42Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmListadoProductos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\FrmListadoProductos.Designer.cs",
+              "RelativeDocumentMoniker": "FrmListadoProductos.Designer.cs",
+              "ToolTip": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\FrmListadoProductos.Designer.cs",
+              "RelativeToolTip": "FrmListadoProductos.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:43:52.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UcPedidosCliente.cs",
+              "DocumentMoniker": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\UcPedidosCliente.cs",
+              "RelativeDocumentMoniker": "UcPedidosCliente.cs",
+              "ToolTip": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\UcPedidosCliente.cs",
+              "RelativeToolTip": "UcPedidosCliente.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA4wBwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:58:19.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmProductos.cs",
+              "DocumentMoniker": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\FrmProductos.cs",
+              "RelativeDocumentMoniker": "FrmProductos.cs",
+              "ToolTip": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\FrmProductos.cs",
+              "RelativeToolTip": "FrmProductos.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAwwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:47:04.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UcClientesDatos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\UcClientesDatos.cs",
+              "RelativeDocumentMoniker": "UcClientesDatos.cs",
+              "ToolTip": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\UcClientesDatos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "UcClientesDatos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T19:48:53.635Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmProductos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\FrmProductos.Designer.cs",
+              "RelativeDocumentMoniker": "FrmProductos.Designer.cs",
+              "ToolTip": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\FrmProductos.Designer.cs",
+              "RelativeToolTip": "FrmProductos.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:47:37.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GestionPedidos.Controller.csproj",
+              "DocumentMoniker": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\GestionPedidos.Controller\\GestionPedidos.Controller.csproj",
+              "RelativeDocumentMoniker": "GestionPedidos.Controller\\GestionPedidos.Controller.csproj",
+              "ToolTip": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\GestionPedidos.Controller\\GestionPedidos.Controller.csproj",
+              "RelativeToolTip": "GestionPedidos.Controller\\GestionPedidos.Controller.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-09T01:21:56.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\GestionPedidos.Controller\\ProductoController.cs",
+              "RelativeDocumentMoniker": "GestionPedidos.Controller\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\GestionPedidos.Controller\\ProductoController.cs",
+              "RelativeToolTip": "GestionPedidos.Controller\\ProductoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:03:56.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmClientes.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\FrmClientes.Designer.cs",
+              "RelativeDocumentMoniker": "FrmClientes.Designer.cs",
+              "ToolTip": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\FrmClientes.Designer.cs",
+              "RelativeToolTip": "FrmClientes.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T19:52:56.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmListadoCLientes.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\FrmListadoCLientes.Designer.cs",
+              "RelativeDocumentMoniker": "FrmListadoCLientes.Designer.cs",
+              "ToolTip": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\FrmListadoCLientes.Designer.cs",
+              "RelativeToolTip": "FrmListadoCLientes.Designer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T21:00:01.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmListadoCLientes.cs",
+              "DocumentMoniker": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\FrmListadoCLientes.cs",
+              "RelativeDocumentMoniker": "FrmListadoCLientes.cs",
+              "ToolTip": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\FrmListadoCLientes.cs",
+              "RelativeToolTip": "FrmListadoCLientes.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAmwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T19:46:53.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrmClientes.cs",
+              "DocumentMoniker": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\FrmClientes.cs",
+              "RelativeDocumentMoniker": "FrmClientes.cs",
+              "ToolTip": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\FrmClientes.cs",
+              "RelativeToolTip": "FrmClientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T19:53:05.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\GestionPedidos.Models\\Producto.cs",
+              "RelativeDocumentMoniker": "GestionPedidos.Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\GestionPedidos.Models\\Producto.cs",
+              "RelativeToolTip": "GestionPedidos.Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T01:25:22.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UcBotonera.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\UcBotonera.cs",
+              "RelativeDocumentMoniker": "UcBotonera.cs",
+              "ToolTip": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\UcBotonera.cs [Dise\u00F1o]",
+              "RelativeToolTip": "UcBotonera.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T19:49:15.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\GestionPedidos.Controller\\Conexion.cs",
+              "RelativeDocumentMoniker": "GestionPedidos.Controller\\Conexion.cs",
+              "ToolTip": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\GestionPedidos.Controller\\Conexion.cs",
+              "RelativeToolTip": "GestionPedidos.Controller\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T01:30:03.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ClienteDatos.cs",
+              "DocumentMoniker": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\GestionPedidos.Controller\\ClienteDatos.cs",
+              "RelativeDocumentMoniker": "GestionPedidos.Controller\\ClienteDatos.cs",
+              "ToolTip": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\GestionPedidos.Controller\\ClienteDatos.cs",
+              "RelativeToolTip": "GestionPedidos.Controller\\ClienteDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:31:01.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\GestionPedidos.Controller\\ClienteController.cs",
+              "RelativeDocumentMoniker": "GestionPedidos.Controller\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\GestionPedidos.Controller\\ClienteController.cs",
+              "RelativeToolTip": "GestionPedidos.Controller\\ClienteController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAArwAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T01:36:10.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FrmListadoCLientes.resx",
+              "DocumentMoniker": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\FrmListadoCLientes.resx",
+              "RelativeDocumentMoniker": "FrmListadoCLientes.resx",
+              "ToolTip": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\FrmListadoCLientes.resx",
+              "RelativeToolTip": "FrmListadoCLientes.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-09T23:00:44.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FrmPrincipal.resx",
+              "DocumentMoniker": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\FrmPrincipal.resx",
+              "RelativeDocumentMoniker": "FrmPrincipal.resx",
+              "ToolTip": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\FrmPrincipal.resx",
+              "RelativeToolTip": "FrmPrincipal.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-09T19:19:00.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DetallePedido.cs",
+              "DocumentMoniker": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\GestionPedidos.Models\\DetallePedido.cs",
+              "RelativeDocumentMoniker": "GestionPedidos.Models\\DetallePedido.cs",
+              "ToolTip": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\GestionPedidos.Models\\DetallePedido.cs",
+              "RelativeToolTip": "GestionPedidos.Models\\DetallePedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T01:26:29.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\GestionPedidos.Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "GestionPedidos.Models\\Pedido.cs",
+              "ToolTip": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\GestionPedidos.Models\\Pedido.cs",
+              "RelativeToolTip": "GestionPedidos.Models\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T01:25:53.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\GestionPedidos.Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "GestionPedidos.Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\luci_\\OneDrive\\Escritorio\\GestionPedido\\GestionPedidos.Models\\Cliente.cs",
+              "RelativeToolTip": "GestionPedidos.Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T01:24:34.924Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
