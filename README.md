@@ -1,6 +1,7 @@
 # Gestión de Pedidos
 
 Aplicación de escritorio desarrollada en C# con Windows Forms, utilizando la arquitectura **MVC** y conectada a una base de datos **SQL Server**.
+Por Lucila Maier y Soledad Kessler.
 
 ## 📝 Objetivo
 
